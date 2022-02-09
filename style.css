@@ -1,0 +1,53 @@
+.container{
+    margin-bottom: 50px;
+}
+.bg-top{
+    background-image: url(images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-item a{
+    color: white;
+}
+form {
+    color: black;
+}
+.fas-top{
+    font-size: 30px;
+    background-color:white;
+    color: blue;
+    border-radius: 50%;
+    padding: 20px 16px;
+}
+.bg-medicine{
+    background-color: #FAFAFA;
+}
+.fa-star{
+    color: orange;
+}
+.fa-check-circle{
+    font-size: 25px;
+    background-color: rgb(92, 241, 99);
+    color: white;
+    padding: 5px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+.far-bg{
+    background-color: gray;
+}
+.col-medle{
+    position: relative;
+    top: -50px;
+}
+.nav-foot ul{
+    padding: 0;
+}
+.nav-foot li{
+    list-style: none;
+}
+.nav-foot li a{
+    text-decoration: none;
+    color: black;
+
+}
